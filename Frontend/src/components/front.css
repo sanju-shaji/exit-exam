@@ -1,0 +1,46 @@
+
+
+
+h2{
+    color:darkslategrey;
+    float: inline-start;
+    
+}
+
+.wrap{
+    border: 2px solid rgba(228, 223, 223, 0.144);
+    background-color: rgba(0, 0, 0, 0.146);
+
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    filter: drop-shadow(10px 12px 20px rgba(0, 0, 0, 0.651));
+
+    
+}
+
+.input{
+    float: inline-end;
+}
+
+.data{
+    margin-top: 5%;
+}
+
+.add{
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin-left: 1px;
+
+}
+
+.del{
+    margin-left: 1%;
+    background-color: rgb(246, 9, 9);
+    border-radius: 10px;
+}
+
+.font{
+    font-family: cursive;
+    font-size:x-large;
+}
